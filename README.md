@@ -9,8 +9,8 @@ URL + Overlays(CSS Selectors + Labels) => Screenshot with annotation overlays
 ## When To Use
 
 * To annotate webpage
-* To find wrong markups
-* To visualize access logs of website
+* To find wrong markups .
+* To visualize access logs of website .
 
 ## Usage
 
@@ -53,7 +53,7 @@ Config file is a JSON or JavaScript file.
 
 Below is an example.
 This example highlights visible `img` elements on the website of Apple.
-
+=======================================
 ```javascript
 {
     "url": "http://apple.com",
@@ -66,7 +66,7 @@ This example highlights visible `img` elements on the website of Apple.
     ]
 }
 ```
-
+=======================================
 ### url
 
 The URL to take a screenshot.
